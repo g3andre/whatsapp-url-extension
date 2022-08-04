@@ -1,0 +1,6 @@
+{
+  "name": "Whatsapp link generator",
+  "description": "Extension to generate Whatsapp links",
+  "version": "1.0",
+  "manifest_version": 3
+}
