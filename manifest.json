@@ -1,6 +1,9 @@
 {
   "name": "Whatsapp link generator",
   "description": "Extension to generate Whatsapp links",
+  "action": {
+    "default_popup": "index.html"
+  },
   "version": "1.0",
   "manifest_version": 3
 }
